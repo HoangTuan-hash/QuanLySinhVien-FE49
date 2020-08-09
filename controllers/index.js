@@ -125,3 +125,7 @@ var layDuLieuLocalStorage = function () {
 }
 
 layDuLieuLocalStorage();
+
+var sapXepSinhVien =function(){
+    console.log('UserA , sap xếp sinh viên');
+}
